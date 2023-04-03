@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PowerfulAni
-- 👀 I’m interested in C#, Web-Development and AI
-- 🌱 I’m currently learning Java Development, Software Ergonomics and AI
+- 👀 I’m interested in C#, Web-Development and Cybersecurity 
+- 🌱 I’m currently learning Java Development, Software Ergonomics and PenTesting
 - 📫 You can reach me on Dicord via Anisa#9469
 
 <!---
